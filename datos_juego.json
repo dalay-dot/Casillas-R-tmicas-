@@ -1,0 +1,27 @@
+{
+  "records": {
+    "fur_elise": {
+      "puntos": 4320,
+      "combo": 9,
+      "rango": "F",
+      "estrellas": 0
+    },
+    "arcade": {
+      "puntos": 4860,
+      "combo": 10,
+      "rango": "F",
+      "estrellas": 0
+    }
+  },
+  "ajustes": {
+    "volumen_musica": 0.7,
+    "volumen_sfx": 0.8,
+    "silencio": false,
+    "vibracion": true
+  },
+  "estadisticas": {
+    "partidas_jugadas": 10,
+    "notas_perfectas": 34,
+    "notas_totales": 157
+  }
+}
